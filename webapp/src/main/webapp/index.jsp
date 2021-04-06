@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome  to groovy scripting</h1>
+<h1>Welcome  to groovy scripting-jenkins</h1>
 </body>
 <body style="color:red;">
  <div class="container">
